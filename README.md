@@ -291,3 +291,11 @@ It is not a certified medical diagnostic system and should not be used as a subs
 
 M.Tech Computer Engineering  
 Pune Institute of Computer Technology (PICT)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
