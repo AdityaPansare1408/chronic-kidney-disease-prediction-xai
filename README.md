@@ -1,5 +1,10 @@
 # Chronic Kidney Disease Prediction using Explainable AI (XAI)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Model](https://img.shields.io/badge/Model-Logistic_Regression-green)
+![SHAP](https://img.shields.io/badge/Explainability-SHAP-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An interpretable machine learning system for early prediction of Chronic Kidney Disease (CKD) using Logistic Regression and SHAP-based Explainable AI (XAI).
 
 The project combines predictive analytics with model transparency, enabling users to understand not only the prediction outcome but also the clinical factors that contribute to it.
@@ -226,14 +231,38 @@ streamlit run app/app.py
 
 ## Technologies Used
 
+### Programming Language
+
 - Python
+
+### Machine Learning
+
+- Logistic Regression
+- Scikit-Learn
+
+### Explainable AI
+
+- SHAP (SHapley Additive Explanations)
+
+### Data Processing
+
 - Pandas
 - NumPy
-- Scikit-Learn
-- SHAP
+
+### Data Visualization
+
 - Matplotlib
+
+### Web Application
+
 - Streamlit
+
+### Model Serialization
+
 - Joblib
+
+### Data Preprocessing
+
 - Imbalanced-Learn
 
 ---
